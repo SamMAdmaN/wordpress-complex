@@ -61,6 +61,15 @@
             </dd>
         </dl>
     </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Enable search</dt>
+            <dd>
+                Enable/disable search
+            </dd>
+        </dl>
+    </li>
 </ul>
 
 <h5>Top Panel</h5>
@@ -76,6 +85,7 @@
             </dd>
         </dl>
     </li>
+<?php if ($project == 'wildride' ) { ?>
     <li>
         <dl class="inline-term">
             <dt>Enable search</dt>
@@ -84,6 +94,7 @@
             </dd>
         </dl>
     </li>
+<?php } ?>    
     <li>
         <dl class="inline-term">
             <dt>Background color</dt>
@@ -125,4 +136,14 @@
             </dd>
         </dl>
     </li>
+<?php if ($project == 'neurion' or  $project == 'waylard') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Hidden menu items title</dt>
+            <dd>
+                Enter the title for hidden items
+            </dd>
+        </dl>
+    </li>
+<?php } ?>  
 </ul>

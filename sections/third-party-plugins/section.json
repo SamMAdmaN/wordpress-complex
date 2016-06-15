@@ -562,13 +562,6 @@
 				}
 			},
 			{
-				"id": "akismet",
-				"translations": {
-					"en": "Akismet",
-					"ru": "Akismet"
-				}
-			},
-			{
 				"id": "builder",
 				"translations": {
 					"en": "Power Builder",
@@ -578,8 +571,8 @@
 			{
 				"id": "builder-integrator",
 				"translations": {
-					"en": "TM Builder Integrator",
-					"ru": "TM Builder Integrator"
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
 				}
 			}
 		],
@@ -626,13 +619,6 @@
 				"translations": {
 					"en": "Facebook By WebLizar",
 					"ru": "Facebook By WebLizar"
-				}
-			},
-			{
-				"id": "akismet",
-				"translations": {
-					"en": "Akismet",
-					"ru": "Akismet"
 				}
 			},
 			{
@@ -700,6 +686,82 @@
 				"translations": {
 					"en": "Tiny Grid",
 					"ru": "Tiny Grid"
+				}
+			}
+		],
+		"waylard": [
+			{
+				"id": "tiny-grid",
+				"translations": {
+					"en": "Tiny Grid",
+					"ru": "Tiny Grid"
+				}
+			}
+		],
+		"pristine": [
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter",
+					"ru": "Easy Twitter"
+				}
+			},
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"samson": [
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter",
+					"ru": "Easy Twitter"
+				}
+			},
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "regenerate-thumbnails",
+				"translations": {
+					"en": "Regenerate Thumbnails",
+					"ru": "Regenerate Thumbnails"
 				}
 			}
 		]

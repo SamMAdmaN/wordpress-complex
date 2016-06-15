@@ -23,9 +23,17 @@
 
 <p>This property specifies whether to enable or disable topTop button</p>
 
-<?php if ($project == 'wildride' OR $project == 'weeklyjournal' OR $project == 'cosmetro' OR $project == 'sketchfield' OR $project == 'clubstome') { ?>
+<?php if ($project == 'wildride' OR $project == 'weeklyjournal' OR $project == 'cosmetro' OR $project == 'sketchfield' OR $project == 'clubstome'  OR $project == 'bedentist' OR $project == 'pristine' OR $project == 'samson') { ?>
 
 <h5> Show preloader when open a page </h5>
+
+<p>This property specifies whether to show placeholder or not</p>
+
+<?php } ?>
+
+<?php if ($project == 'waylard') { ?>
+
+<h5> Show page preloader </h5>
 
 <p>This property specifies whether to show placeholder or not</p>
 

@@ -8,7 +8,7 @@
 </figure>
 -->
 
-<h5>Type of logo</h5>
+<h5>Logo Type</h5>
 
 <ul class="marked-list">
     <li>

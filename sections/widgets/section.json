@@ -29,13 +29,7 @@
 				"en": "Image Grid",
 				"ru": "Сетка изображений"
 			}
-		}, {
-			"id": "instagram-widget",
-			"translations": {
-				"en": "Instagram Widget",
-				"ru": "Instagram виджет"
-			}
-		},  {
+		},   {
 			"id": "tag-cloud",
 			"translations": {
 				"en": "Tag Cloud",
@@ -228,13 +222,7 @@
 				"en": "Image Grid",
 				"ru": "Сетка изображений"
 			}
-		}, {
-			"id": "instagram-widget",
-			"translations": {
-				"en": "Instagram Widget",
-				"ru": "Instagram виджет"
-			}
-		}, {
+		},  {
 			"id": "easy-twitter-feed",
 			"translations": {
 				"en": "Easy twitter feed",
@@ -284,13 +272,7 @@
 			}
 		}],
 		"gadnews":[
-		{
-			"id": "widgets-installation",
-			"translations": {
-				"en": "Widgets installation",
-				"ru": "Установка виджетов"
-			}
-		}, {
+		 {
 			"id": "about-author-widget",
 			"translations": {
 				"en": "About Author",
@@ -398,13 +380,7 @@
 				"en": "Image Grid",
 				"ru": "Сетка изображений"
 			}
-		}, {
-			"id": "instagram-widget",
-			"translations": {
-				"en": "Instagram Widget",
-				"ru": "Instagram виджет"
-			}
-		}, {
+		},  {
 			"id": "easy-twitter-feed",
 			"translations": {
 				"en": "Easy twitter feed",
@@ -436,13 +412,8 @@
 			}
 		}],
 
-		"fitnesys": [{
-			"id": "widgets-installation",
-			"translations": {
-				"en": "Widgets installation",
-				"ru": "Установка виджетов"
-			}
-		}, {
+		"fitnesys": [
+		 {
 			"id": "about-author-widget",
 			"translations": {
 				"en": "About Author",
@@ -495,12 +466,6 @@
 			"translations": {
 				"en": "Carousel Widget",
 				"ru": "Виджет карусель"
-			}
-		},  {
-			"id": "instagram-widget",
-			"translations": {
-				"en": "Instagram Widget",
-				"ru": "Instagram виджет"
 			}
 		},  {
 			"id": "pages",
@@ -666,13 +631,7 @@
 				"en": "Carousel Slider",
 				"ru": "Слайдер карусель"
 			}
-		}, {
-			"id": "instagram-widget-blogetti",
-			"translations": {
-				"en": "Instagram Widget",
-				"ru": "Instagram виджет"
-			}
-		}, {
+		},  {
 			"id": "slider-widget-blogetti",
 			"translations": {
 				"en": "Post Slider",
@@ -857,12 +816,6 @@
 				"en": "Taxonomy Tiles",
 				"ru": "Виджет категорий и тегов"
 			}
-		}, {
-			"id": "instagram-widget-stylepark",
-			"translations": {
-				"en": "Instagram Widget",
-				"ru": "Instagram виджет"
-			}
 		}],
 		"kustrix": [{
 			"id": "smart-slider-widget",
@@ -1002,12 +955,6 @@
 				"en": "Text",
 				"ru": "Текст"
 			}
-		},  {
-			"id": "instagram-widget-kustrix",
-			"translations": {
-				"en": "Instagram Widget",
-				"ru": "Instagram виджет"
-			}
 		}],
 		"fairystyle": [{
 			"id": "motopress-widget-fairystyle",
@@ -1076,6 +1023,12 @@
 				"ru": "Баннер"
 			}
 		},  {
+			"id": "instagram-widget",
+			"translations": {
+				"en": "Instagram",
+				"ru": "Instagram"
+			}
+		},  {
 			"id": "calendar",
 			"translations": {
 				"en": "Calendar",
@@ -1112,12 +1065,6 @@
 				"ru": "Сетка изображений"
 			}
 		},  {
-			"id": "instagram-widget",
-			"translations": {
-				"en": "Instagram Widget",
-				"ru": "Instagram виджет"
-			}
-		},  {
 			"id": "mailchimp-signup",
 			"translations": {
 				"en": "MailChimp Sign-Up Form ",
@@ -1134,6 +1081,12 @@
 			"translations": {
 				"en": "Pages",
 				"ru": "Страницы"
+			}
+		},  {
+			"id": "instagram-widget",
+			"translations": {
+				"en": "Instagram",
+				"ru": "Instagram"
 			}
 		},  {
 			"id": "recent-comments-widget",
@@ -1388,12 +1341,6 @@
 				"en": "Easy Twitter Widget",
 				"ru": "Easy Twitter виджет"
 			}
-		},  {
-			"id": "instagram-widget",
-			"translations": {
-				"en": "Instagram Widget",
-				"ru": "Instagram виджет"
-			}
 		}],
 		"weeklyjournal": [{
 			"id": "smart-slider-widget",
@@ -1498,12 +1445,6 @@
 				"ru": "Текст"
 			}
 		},  {
-			"id": "instagram-widget",
-			"translations": {
-				"en": "Instagram Widget",
-				"ru": "Instagram виджет"
-			}
-		},  {
 			"id": "meta",
 			"translations": {
 				"en": "Meta",
@@ -1551,12 +1492,6 @@
 			"translations": {
 				"en": "Custom Posts",
 				"ru": "Посты"
-			}
-		},  {
-			"id": "instagram-widget",
-			"translations": {
-				"en": "Instagram Widget",
-				"ru": "Instagram виджет"
 			}
 		},  {
 			"id": "tag-cloud",
@@ -1812,12 +1747,6 @@
 				"ru": "Facebook виджет"
 			}
 		},  {
-			"id": "instagram-widget",
-			"translations": {
-				"en": "Instagram Widget",
-				"ru": "Instagram виджет"
-			}
-		},  {
 			"id": "tm-youtube-widget",
 			"translations": {
 				"en": "TM YouTube Subscribe Widget",
@@ -1943,12 +1872,6 @@
 			"translations": {
 				"en": "Carousel Slider",
 				"ru": "Слайдер карусель"
-			}
-		},	{
-			"id": "instagram-widget",
-			"translations": {
-				"en": "Instagram Widget",
-				"ru": "Instagram виджет"
 			}
 		},  {
 			"id": "easy-twitter-feed",
@@ -2101,12 +2024,6 @@
 				"en": "Carousel Slider",
 				"ru": "Слайдер карусель"
 			}
-		},  {
-			"id": "instagram-widget",
-			"translations": {
-				"en": "Instagram Widget",
-				"ru": "Instagram виджет"
-			}
 		}],
 		"triptastic": [{
 			"id": "about-author-widget",
@@ -2179,12 +2096,6 @@
 			"translations": {
 				"en": "Calendar",
 				"ru": "Календарь"
-			}
-		},  {
-			"id": "instagram-widget",
-			"translations": {
-				"en": "Instagram Widget",
-				"ru": "Instagram виджет"
 			}
 		},  {
 			"id": "meta",
@@ -2343,7 +2254,7 @@
 				"en": "Archives",
 				"ru": "Архив"
 			}
-		},   {
+		},  {
 			"id": "custom-menu",
 			"translations": {
 				"en": " Custom Menu ",
@@ -2362,12 +2273,6 @@
 				"ru": "Сетка изображений"
 			}
 		},  {
-			"id": "instagram-widget",
-			"translations": {
-				"en": "Instagram Widget",
-				"ru": "Instagram виджет"
-			}
-		},  {
 			"id": "meta",
 			"translations": {
 				"en": "Meta",
@@ -2379,7 +2284,13 @@
 				"en": "Pages",
 				"ru": "Страницы"
 			}
-		}, {
+		},  {
+			"id": "instagram-widget",
+			"translations": {
+				"en": "Instagram",
+				"ru": "Instagram"
+			}
+		},  {
 			"id": "rss",
 			"translations": {
 				"en": "RSS",
@@ -2555,6 +2466,12 @@
 				"ru": "Баннер"
 			}
 		},  {
+			"id": "instagram-widget",
+			"translations": {
+				"en": "Instagram",
+				"ru": "Instagram"
+			}
+		},  {
 			"id": "calendar",
 			"translations": {
 				"en": "Calendar",
@@ -2584,7 +2501,7 @@
 				"en": "Archives",
 				"ru": "Архив"
 			}
-		},   {
+		},  {
 			"id": "custom-menu",
 			"translations": {
 				"en": " Custom Menu ",
@@ -2631,12 +2548,6 @@
 			"translations": {
 				"en": "Carousel Widget",
 				"ru": "Виджет карусель"
-			}
-		},  {
-			"id": "instagram-widget",
-			"translations": {
-				"en": "Instagram Widget",
-				"ru": "Instagram виджет"
 			}
 		},  {
 			"id": "mailchimp-signup",
@@ -2806,12 +2717,6 @@
 			"translations": {
 				"en": "Text",
 				"ru": "Текст"
-			}
-		},  {
-			"id": "instagram-widget",
-			"translations": {
-				"en": "Instagram Widget",
-				"ru": "Instagram виджет"
 			}
 		},  {
 			"id": "meta",
@@ -3230,18 +3135,18 @@
 				"ru": "RSS"
 			}
 		},  {
+			"id": "instagram-widget",
+			"translations": {
+				"en": "Instagram",
+				"ru": "Instagram"
+			}
+		},  {
 			"id": "carousel-widget",
 			"translations": {
 				"en": "Carousel Widget",
 				"ru": "Виджет карусель"
 			}
 		},  {
-			"id": "instagram-widget",
-			"translations": {
-				"en": "Instagram Widget",
-				"ru": "Instagram виджет"
-			}
-		},   {
 			"id": "taxonomy-tiles-widget",
 			"translations": {
 				"en": "Taxonomy Tiles",
@@ -3386,6 +3291,12 @@
 				"en": "Archives",
 				"ru": "Архив"
 			}
+		},  {
+			"id": "instagram-widget",
+			"translations": {
+				"en": "Instagram",
+				"ru": "Instagram"
+			}
 		},   {
 			"id": "custom-menu",
 			"translations": {
@@ -3403,12 +3314,6 @@
 			"translations": {
 				"en": "Text",
 				"ru": "Текст"
-			}
-		},  {
-			"id": "instagram-widget",
-			"translations": {
-				"en": "Instagram Widget",
-				"ru": "Instagram виджет"
 			}
 		},  {
 			"id": "meta",
@@ -3567,12 +3472,6 @@
 				"en": "Taxonomy Tiles",
 				"ru": "Виджет категорий и тегов"
 			}
-		}, {
-			"id": "instagram-widget-stylepark",
-			"translations": {
-				"en": "Instagram Widget",
-				"ru": "Instagram виджет"
-			}
 		}],
 		"dailysports_tf": [{
 			"id": "about-author-widget",
@@ -3693,12 +3592,6 @@
 			"translations": {
 				"en": "Easy Twitter Widget",
 				"ru": "Easy Twitter виджет"
-			}
-		},  {
-			"id": "instagram-widget",
-			"translations": {
-				"en": "Instagram Widget",
-				"ru": "Instagram виджет"
 			}
 		}],
 		"finestgame": [{
@@ -3985,12 +3878,6 @@
 				"ru": "Twitter лента"
 			}
 		},  {
-			"id": "instagram-widget",
-			"translations": {
-				"en": "Instagram Widget",
-				"ru": "Instagram виджет"
-			}
-		},  {
 			"id": "pinterest-board-widget",
 			"translations": {
 				"en": "Pinterest Board Widget",
@@ -4148,12 +4035,6 @@
 				"en": "Taxonomy Tiles",
 				"ru": "Виджет категорий и тегов"
 			}
-		},  {
-			"id": "instagram-widget",
-			"translations": {
-				"en": "Instagram Widget",
-				"ru": "Instagram виджет"
-			}
 		}],
 		"neurion": [{
 			"id": "about-author-widget",
@@ -4168,13 +4049,13 @@
 				"ru": "About Neurion"
 			}
 		},  {
-			"id": "subscribe-and-follow-widget-dailysports",
+			"id": "subscribe-and-follow-widget",
 			"translations": {
 				"en": "Subscribe and Follow",
 				"ru": "Подписка и Follow"
 			}
 		},  {
-			"id": "custom-post-widget-dailysports",
+			"id": "custom-post-widget",
 			"translations": {
 				"en": "Custom Posts",
 				"ru": "Посты"
@@ -4287,11 +4168,422 @@
 				"en": "Taxonomy Tiles",
 				"ru": "Виджет категорий и тегов"
 			}
+		}],
+	"waylard": [{
+			"id": "about-author-widget",
+			"translations": {
+				"en": "About Author",
+				"ru": "Информация об авторе"
+			}
+		},  {
+			"id": "about",
+			"translations": {
+				"en": "About Waylard",
+				"ru": "About Waylard"
+			}
+		},  {
+			"id": "subscribe-and-follow-widget",
+			"translations": {
+				"en": "Subscribe and Follow",
+				"ru": "Подписка и Follow"
+			}
+		},  {
+			"id": "custom-post-widget-ver3",
+			"translations": {
+				"en": "Custom Posts",
+				"ru": "Посты"
+			}
+		},  {
+			"id": "recent-comments-widget",
+			"translations": {
+				"en": "Recent Comments",
+				"ru": "Новые комментарии "
+			}
+		},  {
+			"id": "recent-posts-widget-v2",
+			"translations": {
+				"en": "Recent Posts",
+				"ru": "Новые публикации "
+			}
+		},  {
+			"id": "rss",
+			"translations": {
+				"en": "RSS",
+				"ru": "RSS"
+			}
+		},  {
+			"id": "archives",
+			"translations": {
+				"en": "Archives",
+				"ru": "Архив"
+			}
+		},  {
+			"id": "banner",
+			"translations": {
+				"en": "Banner",
+				"ru": "Баннер"
+			}
+		},  {
+			"id": "categories",
+			"translations": {
+				"en": "Categories",
+				"ru": "Категории"
+			}
+		},  {
+			"id": "search",
+			"translations": {
+				"en": "Search",
+				"ru": "Поиск"
+			}
+		},  {
+			"id": "calendar",
+			"translations": {
+				"en": "Calendar",
+				"ru": "Календарь"
+			}
+		},  {
+			"id": "carousel-widget",
+			"translations": {
+				"en": "Carousel Widget",
+				"ru": "Виджет карусель"
+			}
+		},  {
+			"id": "custom-menu",
+			"translations": {
+				"en": " Custom Menu ",
+				"ru": " Custom Menu "
+			}
+		},  {
+			"id": "meta",
+			"translations": {
+				"en": "Meta",
+				"ru": "Meta"
+			}
+		},  {
+			"id": "pages",
+			"translations": {
+				"en": "Pages",
+				"ru": "Страницы"
+			}
+		},  {
+			"id": "new-smart-box",
+			"translations": {
+				"en": "New Smartbox",
+				"ru": "New Smartbox"
+			}
+		},  {
+			"id": "smart-slider-widget-main",
+			"translations": {
+				"en": "Smart Slider",
+				"ru": "Умный слайдер"
+			}
+		},  {
+			"id": "tag-cloud",
+			"translations": {
+				"en": "Tag Cloud",
+				"ru": "Облако тегов"
+			}
 		},  {
 			"id": "instagram-widget",
 			"translations": {
-				"en": "Instagram Widget",
-				"ru": "Instagram виджет"
+				"en": "Instagram",
+				"ru": "Instagram"
+			}
+		},  {
+			"id": "text",
+			"translations": {
+				"en": "Text",
+				"ru": "Текст"
+			}
+		},  {
+			"id": "image-grid-widget",
+			"translations": {
+				"en": "Image Grid",
+				"ru": "Сетка изображений"
+			}
+		},  {
+			"id": "taxonomy-tiles-widget",
+			"translations": {
+				"en": "Taxonomy Tiles",
+				"ru": "Виджет категорий и тегов"
+			}
+		}],
+	"pristine": [{
+			"id": "smart-slider-widget",
+			"translations": {
+				"en": "Smart Slider",
+				"ru": "Умный слайдер"
+			}
+		},  {
+			"id": "search",
+			"translations": {
+				"en": "Search",
+				"ru": "Поиск"
+			}
+		},  {
+			"id": "categories",
+			"translations": {
+				"en": "Categories",
+				"ru": "Категории"
+			}
+		},  {
+			"id": "calendar",
+			"translations": {
+				"en": "Calendar",
+				"ru": "Календарь"
+			}
+		},  {
+			"id": "banner",
+			"translations": {
+				"en": "Banner",
+				"ru": "Баннер"
+			}
+		},  {
+			"id": "custom-post-widget-ver3",
+			"translations": {
+				"en": "Custom posts",
+				"ru": "Посты"
+			}
+		},  {
+			"id": "recent-comments-widget",
+			"translations": {
+				"en": "Recent Comments",
+				"ru": "Новые комментарии "
+			}
+		},  {
+			"id": "recent-posts-widget-v2",
+			"translations": {
+				"en": "Recent Posts",
+				"ru": "Новые публикации "
+			}
+		},  {
+			"id": "tag-cloud",
+			"translations": {
+				"en": "Tag Cloud",
+				"ru": "Облако тегов"
+			}
+		},  {
+			"id": "appointment-calendar",
+			"translations": {
+				"en": "Appointment Calendar",
+				"ru": "Календарь"
+			}
+		},  {
+			"id": "about-author-widget",
+			"translations": {
+				"en": "About Author",
+				"ru": "Информация об авторе"
+			}
+		},  {
+			"id": "about",
+			"translations": {
+				"en": "About Pristine",
+				"ru": "Информация о сайте"
+			}
+		},  {
+			"id": "instagram-widget",
+			"translations": {
+				"en": "Instagram",
+				"ru": "Instagram"
+			}
+		},  {
+			"id": "subscribe-and-follow-widget",
+			"translations": {
+				"en": "Subscribe and Follow",
+				"ru": "Подписка и Follow"
+			}
+		},  {
+			"id": "archives",
+			"translations": {
+				"en": "Archives",
+				"ru": "Архив"
+			}
+		},   {
+			"id": "custom-menu",
+			"translations": {
+				"en": " Custom Menu ",
+				"ru": " Custom Menu "
+			}
+		},  {
+			"id": "easy-twitter-feed",
+			"translations": {
+				"en": "Easy Twitter Widget",
+				"ru": "Easy Twitter виджет"
+			}
+		},  {
+			"id": "text",
+			"translations": {
+				"en": "Text",
+				"ru": "Текст"
+			}
+		},  {
+			"id": "meta",
+			"translations": {
+				"en": "Meta",
+				"ru": "Meta"
+			}
+		},  {
+			"id": "pages",
+			"translations": {
+				"en": "Pages",
+				"ru": "Страницы"
+			}
+		},  {
+			"id": "rss",
+			"translations": {
+				"en": "RSS",
+				"ru": "RSS"
+			}
+		},  {
+			"id": "taxonomy-tiles-widget",
+			"translations": {
+				"en": "Taxonomy Tiles",
+				"ru": "Виджет категорий и тегов"
+			}
+		},  {
+			"id": "carousel-widget",
+			"translations": {
+				"en": "Carousel Widget",
+				"ru": "Виджет карусель"
+			}
+		}],
+	"samson": [{
+			"id": "smart-slider-widget",
+			"translations": {
+				"en": "Smart Slider",
+				"ru": "Умный слайдер"
+			}
+		},  {
+			"id": "search",
+			"translations": {
+				"en": "Search",
+				"ru": "Поиск"
+			}
+		},  {
+			"id": "categories",
+			"translations": {
+				"en": "Categories",
+				"ru": "Категории"
+			}
+		},  {
+			"id": "calendar",
+			"translations": {
+				"en": "Calendar",
+				"ru": "Календарь"
+			}
+		},  {
+			"id": "banner",
+			"translations": {
+				"en": "Banner",
+				"ru": "Баннер"
+			}
+		},  {
+			"id": "custom-post-widget-ver3",
+			"translations": {
+				"en": "Custom posts",
+				"ru": "Посты"
+			}
+		},  {
+			"id": "recent-comments-widget",
+			"translations": {
+				"en": "Recent Comments",
+				"ru": "Новые комментарии "
+			}
+		},  {
+			"id": "recent-posts-widget-v2",
+			"translations": {
+				"en": "Recent Posts",
+				"ru": "Новые публикации "
+			}
+		},  {
+			"id": "tag-cloud",
+			"translations": {
+				"en": "Tag Cloud",
+				"ru": "Облако тегов"
+			}
+		},  {
+			"id": "appointment-calendar",
+			"translations": {
+				"en": "Appointment Calendar",
+				"ru": "Календарь"
+			}
+		},  {
+			"id": "about-author-widget",
+			"translations": {
+				"en": "About Author",
+				"ru": "Информация об авторе"
+			}
+		},  {
+			"id": "about",
+			"translations": {
+				"en": "About Samson",
+				"ru": "Информация о сайте"
+			}
+		},{
+			"id": "subscribe-and-follow-widget",
+			"translations": {
+				"en": "Subscribe and Follow",
+				"ru": "Подписка и Follow"
+			}
+		},  {
+			"id": "archives",
+			"translations": {
+				"en": "Archives",
+				"ru": "Архив"
+			}
+		},   {
+			"id": "custom-menu",
+			"translations": {
+				"en": " Custom Menu ",
+				"ru": " Custom Menu "
+			}
+		},  {
+			"id": "instagram-widget",
+			"translations": {
+				"en": "Instagram",
+				"ru": "Instagram"
+			}
+		},  {
+			"id": "easy-twitter-feed",
+			"translations": {
+				"en": "Easy Twitter Widget",
+				"ru": "Easy Twitter виджет"
+			}
+		},  {
+			"id": "text",
+			"translations": {
+				"en": "Text",
+				"ru": "Текст"
+			}
+		},  {
+			"id": "meta",
+			"translations": {
+				"en": "Meta",
+				"ru": "Meta"
+			}
+		},  {
+			"id": "pages",
+			"translations": {
+				"en": "Pages",
+				"ru": "Страницы"
+			}
+		},  {
+			"id": "rss",
+			"translations": {
+				"en": "RSS",
+				"ru": "RSS"
+			}
+		},  {
+			"id": "taxonomy-tiles-widget",
+			"translations": {
+				"en": "Taxonomy Tiles",
+				"ru": "Виджет категорий и тегов"
+			}
+		},  {
+			"id": "carousel-widget",
+			"translations": {
+				"en": "Carousel Widget",
+				"ru": "Виджет карусель"
 			}
 		}]
 	}

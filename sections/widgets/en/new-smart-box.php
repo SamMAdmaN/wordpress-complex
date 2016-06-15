@@ -15,7 +15,11 @@
    <h3> New Smart Box</h3>
 
 <?php } ?>
+<?php if ($project == 'waylard') { ?>
 
+   <h3>Waylard New Smart Box</h3>
+
+<?php } ?>
 	<p>This widget is used to setup and display smart box.</p>
 
     <figure class="img-polaroid">
@@ -35,7 +39,7 @@
         <dl class="inline-term">
             <dt>Choose layout type</dt>
             <dd>
-                 Here you can select the layout pattern for the page with custom smart box layout
+                 Here you can select the layout pattern for the page with a custom smart box layout
             </dd>
         </dl>
     </li>
@@ -99,7 +103,7 @@
         <dl class="inline-term">
             <dt>Display author</dt>
             <dd>
-                Here you can define whether to display author's name or not
+                Here you can define whether to display the author's name or not
             </dd>
         </dl>
     </li>
@@ -111,7 +115,7 @@
             </dd>
         </dl>
     </li>
-<?php if ($project == 'neurion') { ?>
+<?php if ($project == 'neurion' or $project == 'waylard') { ?>
 
      <li>
         <dl class="inline-term">

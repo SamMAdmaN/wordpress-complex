@@ -745,6 +745,75 @@
 					"ru": "Автоматическая установка темы "
 				}
 			}
+		],
+		"waylard": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
+		"pristine": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
+		"samson": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
 		]
 	}
 }

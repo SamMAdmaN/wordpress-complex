@@ -1,4 +1,9 @@
-	<h3>About <?php if ($project == 'neurion') { ?> Neurion<?php } ?></h3>
+	<h3>About 
+    <?php if ($project == 'neurion') { ?> Neurion<?php } ?>
+    <?php if ($project == 'pristine') { ?> Pristine<?php } ?>
+    <?php if ($project == 'waylard') { ?> Waylard<?php } ?>
+    <?php if ($project == 'samson') { ?> Samson<?php } ?>
+    </h3>
 
 	<p>This widget is used to display information about your site.</p>
 

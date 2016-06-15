@@ -440,6 +440,54 @@
 					"ru": "Начало работы с Customizer"
 				}
 			}
+		],
+		"waylard": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"pristine": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"samson": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
 		]
 	}
 }

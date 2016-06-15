@@ -98,7 +98,7 @@
 		</li>
 	</ul>
 	<?php } ?>
-<?php if ($project == 'bitnews' or $project == 'neurion') { ?>
+<?php if ($project == 'bitnews' or $project == 'neurion' or $project == 'waylard') { ?>
 	<ul class="marked-list">
 		<li>
 			Main Menu
@@ -193,7 +193,7 @@
 	</ul>
 <?php } ?>
 
-<?php if ($project == 'bedentist') { ?>
+<?php if ($project == 'bedentist' or $project == 'pristine' or $project == 'samson') { ?>
 	<ul class="marked-list">
 		<li>
 			Main Menu

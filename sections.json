@@ -224,6 +224,7 @@
 		"customizer-settings",
 		"posts-categories",
 		"widgets",
+		"plugins",
 		"third-party-plugins",
 		"tm-builder",
 		"tm-builder-modules",
@@ -295,6 +296,43 @@
 	],
 	"tm-woocommerce": [
 		"introduction_tm_plugins",
-		"plugins_options"
+		"plugins_widgets"
+	],
+	"waylard": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"widgets",
+		"plugins",
+		"third-party-plugins",
+		"extras"
+	],
+	"pristine": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"widgets",
+		"plugins",
+		"third-party-plugins",
+		"tm-builder",
+		"tm-builder-modules",
+		"extras"
+	],
+	"samson": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"widgets",
+		"plugins",
+		"third-party-plugins",
+		"tm-builder",
+		"tm-builder-modules",
+		"extras"
 	]
 }

@@ -7,10 +7,13 @@
 </figure>
 -->
 
-<h5>Show full/minified breadcrumbs path</h5>
+
+
+
 
 <ul class="marked-list">
-    <li>
+
+    <li class="hide">
         <dl class="inline-term">
             <dt>Show social links in header</dt>
             <dd>
@@ -28,8 +31,6 @@
         </dl>
     </li>
 
-<?php if ($project == 'wildride') { ?>
-
     <li>
         <dl class="inline-term">
             <dt>Add social sharing to blog posts  </dt>
@@ -39,6 +40,15 @@
         </dl>
     </li>
 
-<?php } ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Add social sharing to single blog post  </dt>
+            <dd>
+                Displays "share in social networks" buttons on a single blog post
+             </dd>
+        </dl>
+    </li>
 
 </ul>
+
+

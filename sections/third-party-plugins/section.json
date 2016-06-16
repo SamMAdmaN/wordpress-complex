@@ -756,13 +756,6 @@
 					"en": "Power Builder Integrator",
 					"ru": "Power Builder Integrator"
 				}
-			},
-			{
-				"id": "regenerate-thumbnails",
-				"translations": {
-					"en": "Regenerate Thumbnails",
-					"ru": "Regenerate Thumbnails"
-				}
 			}
 		]
 	}

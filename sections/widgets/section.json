@@ -114,6 +114,12 @@
 				"ru": "Поиск"
 			}
 		},  {
+			"id": "instagram-widget",
+			"translations": {
+				"en": "Instagram",
+				"ru": "Instagram"
+			}
+		},  {
 			"id": "smart-slider-widget",
 			"translations": {
 				"en": "Smart Slider",
@@ -251,6 +257,12 @@
 			"translations": {
 				"en": "Search",
 				"ru": "Поиск"
+			}
+		},  {
+			"id": "instagram-widget",
+			"translations": {
+				"en": "Instagram",
+				"ru": "Instagram"
 			}
 		},  {
 			"id": "facebook-page-like-widget",
@@ -637,7 +649,13 @@
 				"en": "Post Slider",
 				"ru": "Cлайдер постов"
 			}
-		}, {
+		},  {
+			"id": "instagram-widget",
+			"translations": {
+				"en": "Instagram",
+				"ru": "Instagram"
+			}
+		},  {
 			"id": "subscribe-and-social-widget",
 			"translations": {
 				"en": "Subscribe and Follow",
@@ -792,7 +810,13 @@
 				"en": "Image Grid",
 				"ru": "Сетка изображений"
 			}
-		},    {
+		},  {
+			"id": "instagram-widget",
+			"translations": {
+				"en": "Instagram",
+				"ru": "Instagram"
+			}
+		},  {
 			"id": "subscribe-and-follow-widget-stylepark",
 			"translations": {
 				"en": "Subscribe and Follow",
@@ -1330,6 +1354,12 @@
 				"ru": "Сетка изображений"
 			}
 		},  {
+			"id": "instagram-widget",
+			"translations": {
+				"en": "Instagram",
+				"ru": "Instagram"
+			}
+		},  {
 			"id": "facebook-page-like-widget",
 			"translations": {
 				"en": "Facebook Page Like Widget",
@@ -1741,6 +1771,12 @@
 				"ru": "Easy Twitter виджет"
 			}
 		},  {
+			"id": "instagram-widget",
+			"translations": {
+				"en": "Instagram",
+				"ru": "Instagram"
+			}
+		},  {
 			"id": "facebook-page-like-widget",
 			"translations": {
 				"en": "Facebook Page Like Widget",
@@ -1866,6 +1902,12 @@
 			"translations": {
 				"en": "Taxonomy Tiles",
 				"ru": "Виджет категорий и тегов"
+			}
+		},   {
+			"id": "instagram-widget",
+			"translations": {
+				"en": "Instagram",
+				"ru": "Instagram"
 			}
 		},  {
 			"id": "carousel-widget",
@@ -2013,6 +2055,12 @@
 				"ru": "Facebook Widget Plus"
 			}
 		},  {
+			"id": "instagram-widget",
+			"translations": {
+				"en": "Instagram",
+				"ru": "Instagram"
+			}
+		}, {
 			"id": "smart-slider-widget-ver3",
 			"translations": {
 				"en": "Smart Slider",
@@ -2132,6 +2180,12 @@
 			"translations": {
 				"en": "Text",
 				"ru": "Текст"
+			}
+		},  {
+			"id": "instagram-widget",
+			"translations": {
+				"en": "Instagram",
+				"ru": "Instagram"
 			}
 		},  {
 			"id": "easy-twitter-feed",
@@ -2683,6 +2737,12 @@
 				"ru": "Архив"
 			}
 		},   {
+			"id": "instagram-widget",
+			"translations": {
+				"en": "Instagram",
+				"ru": "Instagram"
+			}
+		},  {
 			"id": "custom-menu",
 			"translations": {
 				"en": " Custom Menu ",
@@ -3448,7 +3508,13 @@
 				"en": "Image Grid",
 				"ru": "Сетка изображений"
 			}
-		},    {
+		},  {
+			"id": "instagram-widget",
+			"translations": {
+				"en": "Instagram",
+				"ru": "Instagram"
+			}
+		},  {
 			"id": "subscribe-and-follow-widget-stylepark",
 			"translations": {
 				"en": "Subscribe and Follow",
@@ -3582,6 +3648,12 @@
 				"ru": "Сетка изображений"
 			}
 		},  {
+			"id": "instagram-widget",
+			"translations": {
+				"en": "Instagram",
+				"ru": "Instagram"
+			}
+		},  {
 			"id": "facebook-page-like-widget",
 			"translations": {
 				"en": "Facebook Page Like Widget",
@@ -3659,6 +3731,12 @@
 			"translations": {
 				"en": "Calendar",
 				"ru": "Календарь"
+			}
+		},  {
+			"id": "instagram-widget",
+			"translations": {
+				"en": "Instagram",
+				"ru": "Instagram"
 			}
 		},  {
 			"id": "carousel-widget",
@@ -3860,6 +3938,12 @@
 				"ru": "Сетка изображений"
 			}
 		},  {
+			"id": "instagram-widget",
+			"translations": {
+				"en": "Instagram",
+				"ru": "Instagram"
+			}
+		},  {
 			"id": "taxonomy-tiles-widget",
 			"translations": {
 				"en": "Taxonomy Tiles",
@@ -4030,6 +4114,12 @@
 				"ru": "Сетка изображений"
 			}
 		},  {
+			"id": "instagram-widget",
+			"translations": {
+				"en": "Instagram",
+				"ru": "Instagram"
+			}
+		},  {
 			"id": "taxonomy-tiles-widget",
 			"translations": {
 				"en": "Taxonomy Tiles",
@@ -4155,6 +4245,12 @@
 			"translations": {
 				"en": "Text",
 				"ru": "Текст"
+			}
+		},  {
+			"id": "instagram-widget",
+			"translations": {
+				"en": "Instagram",
+				"ru": "Instagram"
 			}
 		},  {
 			"id": "image-grid-widget",

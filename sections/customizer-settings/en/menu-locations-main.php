@@ -549,3 +549,53 @@
         </li> 
     </ul>
 <?php } ?>
+
+<?php if ($project == 'ironmass') { ?>
+    <ul class="marked-list">
+        <li>
+            <dl class="inline-term">
+                <dt>Custom Menu</dt>
+                <dd>
+                    Adjust a Custom menu
+                </dd>
+            </dl>
+        </li>
+
+        <li>
+            <dl class="inline-term">
+                <dt>Elements Menu</dt>
+                <dd>
+                    Adjust an Elements menu
+                </dd>
+            </dl>
+        </li>
+
+        <li>
+            <dl class="inline-term">
+                <dt>Footer Menu</dt>
+                <dd>
+                    Select navigation menu, that will be displayed in the footer area
+                </dd>
+            </dl>
+        </li>
+
+        <li>
+            <dl class="inline-term">
+                <dt>Main Menu</dt>
+                <dd>
+                    Select primary navigation menu
+                </dd>
+            </dl>
+        </li>
+
+        <li>
+            <dl class="inline-term">
+                <dt>Social Menu</dt>
+                <dd>
+                    Select navigation menu, that will be used for social networks
+                </dd>
+            </dl>
+        </li> 
+      
+    </ul>
+<?php } ?>

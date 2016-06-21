@@ -3,6 +3,7 @@
     <?php if ($project == 'pristine') { ?> Pristine<?php } ?>
     <?php if ($project == 'waylard') { ?> Waylard<?php } ?>
     <?php if ($project == 'samson') { ?> Samson<?php } ?>
+    <?php if ($project == 'ironmass') { ?> Ironmass<?php } ?>
     </h3>
 
 	<p>This widget is used to display information about your site.</p>

@@ -140,6 +140,77 @@
     </li>
 
 <?php } ?>
+
+<?php if ($project == 'ironmass') { ?>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Main Menu   </dt>
+            <dd>
+               Main Menu font settings
+             </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Button  </dt>
+            <dd>
+               Button font settings
+             </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Breadcrumbs  </dt>
+            <dd>
+                Breadcrumbs font settings
+             </dd>
+        </dl>
+    </li>
+
+<?php } ?>
+
+<?php if ( $project == 'bettaso') { ?>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Header showcase title  </dt>
+            <dd>
+                Header title font settings
+             </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Header showcase subtitle  </dt>
+            <dd>
+                Header subtitle font settings
+             </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Breadcrumbs  </dt>
+            <dd>
+                Breadcrumbs font settings
+             </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Pagination  </dt>
+            <dd>
+                Pagination font settings
+             </dd>
+        </dl>
+    </li>
+
+<?php } ?>
 </ul>
 
 <h5>Font Family</h5>

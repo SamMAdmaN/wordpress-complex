@@ -230,6 +230,29 @@
 		</li>
 	</ul>
 <?php } ?>
+<?php if ($project == 'ironmass') { ?>
+	<ul class="marked-list">
+		<li>
+			Custom Menu
+		</li>
+
+		<li>
+			Elements-Menu
+		</li>
+
+		<li>
+			Footer-Menu
+		</li>
+	
+	    <li>
+			Main-Menu
+		</li>
+
+		<li>
+			Social-Menu
+		</li>
+	</ul>
+<?php } ?>
 <p>Then you can define the menu position and check the result with the help of the customizer tool.</p>
 
 <p>

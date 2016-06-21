@@ -18,9 +18,12 @@
 <p>This property specifies whether to  show or hide tagline after logo</p>
 
 
-
-<h5>Enable topTop button</h5>
-
+<?php if ($project != 'ironmass' && $project !='bettaso') { ?>
+<h5>Enable toTop button</h5>
+<?php } ?>
+<?php if ($project == 'ironmass' or $project == 'bettaso') { ?>
+<h5>Show toTop button</h5>
+<?php } ?>
 <p>This property specifies whether to enable or disable topTop button</p>
 
 <?php if ($project == 'wildride' OR $project == 'weeklyjournal' OR $project == 'cosmetro' OR $project == 'sketchfield' OR $project == 'clubstome'  OR $project == 'bedentist' OR $project == 'pristine' OR $project == 'samson') { ?>
@@ -31,7 +34,7 @@
 
 <?php } ?>
 
-<?php if ($project == 'waylard') { ?>
+<?php if ($project == 'waylard' or $project == 'ironmass' or $project == 'bettaso') { ?>
 
 <h5> Show page preloader </h5>
 

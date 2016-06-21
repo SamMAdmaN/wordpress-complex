@@ -265,6 +265,24 @@
 					"ru": "Настройки страницы"
 				}
 			}
+		],
+		"ironmass": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"bettaso": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
 		]
 	}
 }

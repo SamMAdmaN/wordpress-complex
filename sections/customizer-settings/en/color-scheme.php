@@ -118,7 +118,7 @@
     </li>
 <?php } ?>
 
-<?php if ($project == 'finestgame' or $project == 'sketchfield' or $project == 'clubstome' or $project == 'blogetti' or $project == 'neurion') { ?>
+<?php if ($project == 'finestgame' or $project == 'sketchfield' or $project == 'clubstome' or $project == 'blogetti' or $project == 'neurion' or $project == 'ironmass' or $project == 'bettaso') { ?>
     <li>
         <dl class="inline-term">
             <dt>Accent color (3)</dt>
@@ -298,7 +298,7 @@
 <?php } ?>
 
 
-<?php if ($project == 'finestgame' or $project == 'sketchfield' or $project == 'blogetti' or $project == 'neurion') { ?>
+<?php if ($project == 'finestgame' or $project == 'sketchfield' or $project == 'blogetti' or $project == 'neurion' or $project == 'ironmass' or $project == 'bettaso') { ?>
      <li>
         <dl class="inline-term">
             <dt>Accent color (3)</dt>

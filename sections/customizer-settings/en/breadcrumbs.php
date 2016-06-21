@@ -31,6 +31,8 @@
 </ul>
 <?PHP endif; ?>
 
+
+<?php if ($project != 'bettaso' ) { ?>
 <ul class="marked-list">
     <li>
         <dl class="inline-term">
@@ -48,6 +50,7 @@
             </dd>
         </dl>
     </li>
+<?php } ?>
 
 <?php if ($project == 'neurion' or $project == 'waylard' ) { ?>
     <li>
@@ -60,7 +63,7 @@
     </li>
 <?php } ?>
 
-<?php if ($project == 'bedentist' or $project == 'pristine'  or $project == 'samson') { ?>
+<?php if ($project == 'bedentist' or $project == 'pristine'  or $project == 'samson' or $project == 'ironmass') { ?>
     <li>
         <dl class="inline-term">
             <dt>Enable Breadcrumbs on front page </dt>
@@ -72,10 +75,39 @@
 <?php } ?>
 </ul>
 
-<?php if ($project == 'bedentist' or $project == 'pristine' or $project == 'samson')
-echo "<div style='display:none;'>";
- { ?>
+<?php if ($project == 'bettaso' ) { ?>
+<ul class="marked-list">
+    <li>
+        <dl class="inline-term">
+            <dt>Enable Breadcrumbs</dt>
+            <dd>
+                Show / Hide breadcrumbs
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Enable Breadcrumbs on front page </dt>
+            <dd>
+                Enable/disable breadcrumbs on front page
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Enable page title in breadcrumbs area</dt>
+            <dd>
+                Show page title in breadcrumbs area
+            </dd>
+        </dl>
+    </li>
+</ul>    
+<?php } ?>
+<?php if ($project != 'bedentist' && $project != 'pristine' && $project != 'samson'){ ?>
 <div> 
+
 <h5>Show full/minified breadcrumbs path</h5>
 
 <ul class="marked-list">
